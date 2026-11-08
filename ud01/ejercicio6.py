@@ -1,0 +1,7 @@
+#7) Mostrar con un bucle while los números del 1 al 100.
+
+num1 = 1
+
+while num1 <= 100:
+    print(num1)
+    num1 += 1
