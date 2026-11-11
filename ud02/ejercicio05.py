@@ -12,5 +12,5 @@ buscar = input('Introduce palabra a buscar: ')
 
 for i in lista:
     if i == buscar:
-        print(f'La palabra {buscar} aparece {lista.count(buscar)} veces en la lista')
+        print(f'Aparece {lista.count(buscar)} veces')
         break
